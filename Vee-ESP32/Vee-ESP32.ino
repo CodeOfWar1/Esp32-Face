@@ -10,6 +10,7 @@ const char* ssid = "TECNO SPARK 10 Pro";
 const char* password = "12345678";
 
 // Your server endpoint
+const char* upload_url = "http://10.251.211.135:5000/scanned-face";
 
 // Timing
 const unsigned long CAPTURE_DURATION = 10 * 1000;
