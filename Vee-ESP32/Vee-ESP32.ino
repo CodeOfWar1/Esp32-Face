@@ -6,8 +6,8 @@
 #include <WebServer.h>
 
 // WiFi credentials
-const char* ssid = "TECNO SPARK 10 Pro";
-const char* password = "12345678";
+const char* ssid = "";
+const char* password = "";
 
 // Your server endpoint
 const char* upload_url = "http://10.251.211.135:5000/scanned-face";
